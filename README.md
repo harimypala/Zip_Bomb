@@ -7,7 +7,7 @@ Zip bomb are of two types
 3.  Non-recursive
     - Can be built in Linux environment using a tool called zip bomb.
 
-https://www.youtube.com/watch?v=un9mTKMftSo
+https://youtu.be/2aVR_v5euiQ
 
 ## How to create zip bomb _(Recursive)_ in Windows environment?
 
